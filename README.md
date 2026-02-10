@@ -72,3 +72,7 @@ Special thanks to:
 - Ayush Vasawade (GDGOC DYPCET Lead)
 - DYPCET Organizing & Technical Team
 for their support, guidance, and excellent event management.
+
+### 📜 Certificates
+images/dimensionx-cerificate.jpeg
+
