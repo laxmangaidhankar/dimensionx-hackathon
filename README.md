@@ -11,7 +11,7 @@ The project was developed during the DimensionX 2026 Hackathon, organized by GDG
 ---
 
 ### 👥 Team: MarathaMinds
-https://github.com/laxmangaidhankar/dimensionx-hackathon/blob/main/images/marathaminds.jpeg
+![Team](./images/marathaminds.jpeg)
 - Sanket Rajkumar Gudade
 - Laxman Gaidhankar
 ---
@@ -74,5 +74,5 @@ Special thanks to:
 for their support, guidance, and excellent event management.
 
 ### 📜 Certificates
-[images/dimensionx-cerificate.jpeg](https://github.com/laxmangaidhankar/dimensionx-hackathon/blob/main/images/dimensionx-cerificate.jpeg)
+![Cerificate](./images/dimensionx-cerificate.jpeg)
 
